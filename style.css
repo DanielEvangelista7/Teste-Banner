@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+
+#banner {    
+    position: relative;
+    top: 30px;
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+	background: url('design/elemFixo.png')
+    
+    
+}
+
+}
+
+#d{
+	
+animation-duration: 3s	
+
+}
+
